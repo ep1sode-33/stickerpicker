@@ -1,0 +1,11 @@
+{
+  "packs": [
+    "myadestes_1_nacho.json",
+    "suzumi_bili_2.json",
+    "mitonekomaru.json",
+    "genshin_kokomi_pack.json",
+    "bad_by_WuMingv2Bot.json",
+    "suzume_bili.json"
+  ],
+  "homeserver_url": "https://matrix.fedibird.com"
+}
